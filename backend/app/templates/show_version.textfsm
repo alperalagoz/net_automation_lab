@@ -1,0 +1,4 @@
+Value VERSION (.+?)
+
+Start
+  ^Cisco IOS Software.*Version ${VERSION}, -> Record

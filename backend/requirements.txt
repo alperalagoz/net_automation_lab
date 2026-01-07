@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+netmiko
+napalm
+pydantic
+python-dotenv
+ntc-templates
